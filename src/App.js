@@ -44,8 +44,9 @@ class App extends Component {
   }
 
   handleBtnClick = event => {
+    
     const imageValue = event.target.getAttribute("value");
-    const newState = { ...this.state };
+    let newState = { ...this.state };
 
 
     // increments current score on correct click
@@ -70,7 +71,7 @@ class App extends Component {
     this.shuffleArray(newState.images);
     // Replace our component's state with newState
     this.setState({ ...newState });
-
+    newState;
   };
 
   shuffleArray = array => {

@@ -7,7 +7,7 @@ const CardBtn = props => (
     className={`card-btn ${props["data-value"]}`}
     value={props.value}
     {...props}
-  ><strong>+</strong></button>
+  >+</button>
 );
 
 export default CardBtn;

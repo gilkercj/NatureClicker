@@ -8,9 +8,9 @@ const Navbar = props => (
     <div>
       <ul className="navbar-nav">
 
-        <a id="previous-score">Previous Score:{props.previousScore}</a>
+        <a id="previous-score" class="score">Previous Score: {props.previousScore}</a>
         <a id="title"><strong>Nature Clicker</strong></a>
-        <a id="current-score">Current Score:{props.currentScore}</a>
+        <a id="current-score" clase="score">Current Score: {props.currentScore}</a>
 
       </ul>
     </div>
