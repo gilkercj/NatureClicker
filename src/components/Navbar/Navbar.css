@@ -1,0 +1,19 @@
+ .navbar-nav{
+
+  text-align: center;
+  background-color: rgb(247, 247, 247);
+  margin-bottom: 0;
+  padding: 2em;
+  margin-top: 0;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+
+#previous-score{
+padding: 0 1em;
+  float: left;
+
+}
+#current-score{
+padding: 0 1em;
+  float: right;
+}

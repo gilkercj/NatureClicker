@@ -1,0 +1,17 @@
+.card-btn {
+  border-radius: 50%;
+  height: 1.5em;
+  width: 1.5em;
+  position: absolute;
+  border: #444 solid 2px;
+  right: -2%;
+  bottom: -2%;
+  color: #666;
+  opacity: .75;
+  background-color: #ddd;
+  font-size: 24px;
+  cursor: pointer;
+  font-family: FontAwesome;
+  outline: none;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
