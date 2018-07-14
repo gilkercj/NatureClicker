@@ -6,6 +6,6 @@
 * the images will shuffle and you will have a chance to pick again
 * if you pick the same image twice you lose and your score will reset
 
-*have fun
+* have fun
 
 ### this app was made using react
