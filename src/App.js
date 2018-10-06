@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import Footer from "./components/Footer/Footer";
 import Card from "./components/Card/Card";
-// import CardBtn from "./components/CardBtn/CardBtn";
 import Container from './components/Container/Container';
 import Row from './components/Row/Row';
 import Navbar from "./components/Navbar/Navbar";
