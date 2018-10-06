@@ -8,4 +8,5 @@
 
 * have fun
 
-### this app was made using react
+### this app was made using React.js
+
